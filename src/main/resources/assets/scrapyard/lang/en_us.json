@@ -1,0 +1,13 @@
+{
+  "itemGroup.scrapyard": "Example Mod Tab",
+  "block.scrapyard.example_block": "Example Block",
+  "item.scrapyard.example_item": "Example Item",
+
+  "scrapyard.configuration.title": "The Scrapyard Configs",
+  "scrapyard.configuration.section.scrapyard.common.toml": "The Scrapyard Configs",
+  "scrapyard.configuration.section.scrapyard.common.toml.title": "The Scrapyard Configs",
+  "scrapyard.configuration.items": "Item List",
+  "scrapyard.configuration.logDirtBlock": "Log Dirt Block",
+  "scrapyard.configuration.magicNumberIntroduction": "Magic Number Text",
+  "scrapyard.configuration.magicNumber": "Magic Number"
+}
